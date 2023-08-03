@@ -1,5 +1,8 @@
 package mylibrary;
 
+import mylibrary.interfaces.Menu;
+import mylibrary.models.Conexion;
+
 import java.sql.Connection;
 import java.sql.SQLException;
 
